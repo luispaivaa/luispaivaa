@@ -52,19 +52,6 @@ Desde pequeno sou fissurado por tecnologia e computadores. Essa paixão pelo "no
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luispaivaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispaivaa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luispaivaa&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
----
-
 ### 📌 Projetos em destaque
 
 
