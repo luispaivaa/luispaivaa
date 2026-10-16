@@ -58,7 +58,3 @@ Desde pequeno sou fissurado por tecnologia e computadores. Essa paixão pelo "no
 - 💻 **maratona-java** — Repositório de estudos e exercícios práticos em Java, cobrindo lógica de programação, estruturas de dados e orientação a objetos.
 -  🐕 **sistema-cadastro-java** — Sistema CLI de cadastro de Pets feito 100% com Java.
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luispaivaa&label=Visualizações+do+perfil&color=2F81F7&style=flat" alt="profile views" />
-</p>
