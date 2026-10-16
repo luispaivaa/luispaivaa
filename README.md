@@ -22,9 +22,9 @@
 
 ### 🚀 Sobre mim
 
-Desde pequeno sou fissurado por tecnologia e computadores. Essa paixão pelo "novo" me trouxe até a programação — e a postura proativa que a engenharia de software exige, sempre instigando a resolução dos mais variados problemas, só aumentou essa chama.
+Desde pequeno sou fissurado por tecnologia e computadores. Essa paixão pelo "novo" me trouxe até a programação; e a postura proativa que a engenharia de software exige, sempre instigando a resolução dos mais variados problemas, só aumentou essa chama.
 
-- 🎓 Cursando o **5º semestre** de Ciência da Computação
+- 🎓 Cursando o **5º semestre** de Ciência da Computação  
 - 💻 **Desenvolvedor Backend** com 6 meses de experiência
 - 🔭 Foco atual em **desenvolvimento Backend** com **Java** e **Spring Boot**
 - 🧠 Estudando também Lógica de Programação e Estruturas de Dados
@@ -56,7 +56,7 @@ Desde pequeno sou fissurado por tecnologia e computadores. Essa paixão pelo "no
 
 
 - 💻 **maratona-java** — Repositório de estudos e exercícios práticos em Java, cobrindo lógica de programação, estruturas de dados e orientação a objetos.
-
+-  🐕 **sistema-cadastro-java** — Sistema CLI de cadastro de Pets feito 100% com Java.
 ---
 
 <p align="center">
